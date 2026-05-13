@@ -152,17 +152,6 @@ npm run dev
 
 ---
 
-## 📷 Screenshots
-
-> *Add your screenshots here*
-
-| Home Page | Product Listing |
-|-----------|----------------|
-| ![Home](screenshots/home.png) | ![Products](screenshots/products.png) |
-
-| Cart Page | Admin Dashboard |
-|-----------|----------------|
-| ![Cart](screenshots/cart.png) | ![Admin](screenshots/admin.png) |
 
 ---
 
