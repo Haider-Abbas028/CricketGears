@@ -1,5 +1,4 @@
 
-```markdown
 # 🏏 Cricket Gears – E-Commerce Platform for Cricket Equipment
 
 ![MERN Stack](https://img.shields.io/badge/MERN-Stack-green)
